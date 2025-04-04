@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-form-validation/static/css/main.d0a80361.css",
+    "main.js": "/react-form-validation/static/js/main.6969b91d.js",
+    "index.html": "/react-form-validation/index.html",
+    "main.d0a80361.css.map": "/react-form-validation/static/css/main.d0a80361.css.map",
+    "main.6969b91d.js.map": "/react-form-validation/static/js/main.6969b91d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a80361.css",
+    "static/js/main.6969b91d.js"
+  ]
+}
