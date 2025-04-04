@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import RegistrationForm from './form.jsx';
 import './index.css';
+import RegistrationForm from './form.jsx';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
